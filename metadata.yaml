@@ -1,7 +1,10 @@
 _repo: Ecclesiastical-History-of-England-Volume-1The-Church-of-the-Civil-Wars_62837
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Ecclesiastical History of England, from the Opening of the Long
   Parliament to the Death of Oliver Cromwell. Volume 1—The Church of the Civil Wars
+covers:
+- cover_type: archival
+  image_path: 62837-h/images/cover.jpg
 creator:
   author:
     agent_name: Stoughton, John
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41836
     wikipedia: https://en.wikipedia.org/wiki/John_Stoughton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62837#Ecclesiastical-History-of-England-Volume-1The-Church-of-the-Civil-Wars
 gutenberg_issued: '2020-08-03'
 gutenberg_type: Text
 identifiers:
